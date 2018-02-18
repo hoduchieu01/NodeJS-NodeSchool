@@ -37,7 +37,7 @@ Please refer to the [nodeschool site](http://nodeschool.io/#workshoppers) for de
 
 	`npm install -g javascripting` **(installs it)**
 
-	![install_module](/images//images/readme-images/install_module.png?raw=true)
+	![install_module](/images/readme-images/install_module.png?raw=true)
 
 
 	`javascripting` **(runs it)**
